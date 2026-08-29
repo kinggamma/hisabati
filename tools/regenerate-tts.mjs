@@ -351,6 +351,133 @@ async function transcribeWithWhisper(audioBuffer, fileName, apiKey, language, pr
   return (data.words ?? []).map((w) => ({ text: w.word, start: w.start, end: w.end }))
 }
 
+// Keep this token pattern in sync with the reader's word-highlighting tokenizer.
+// Whisper can split one visible word into several timestamp tokens (for example
+// "Hesabu" -> "He", "sabu") or merge adjacent words. The reader highlights by
+// array index, so saving Whisper's tokens directly shifts every later highlight.
+const HIGHLIGHT_WORD_RE = /[\p{L}\p{N}\p{M}]+(?:[’'-][\p{L}\p{N}\p{M}]+)*/gu
+
+function extractHighlightWords(text) {
+  return Array.from(String(text ?? "").matchAll(HIGHLIGHT_WORD_RE), (match) => match[0])
+}
+
+function normalizeAlignmentToken(text) {
+  return extractHighlightWords(String(text ?? "").toLocaleLowerCase()).join("")
+}
+
+/**
+ * Reconcile Whisper timestamp tokens with the exact words the reader wraps.
+ *
+ * When counts already match, retain Whisper's boundaries one-for-one. When
+ * Whisper split/merged tokens, project visible-word boundaries across the
+ * recognized token character weights. This preserves real speech timing while
+ * guaranteeing one timestamp per visible word, which is the reader contract.
+ */
+function reconcileWordTimestamps(expectedText, whisperWords) {
+  const expectedWords = extractHighlightWords(expectedText)
+  const recognized = (Array.isArray(whisperWords) ? whisperWords : []).filter(
+    (word) =>
+      word &&
+      Number.isFinite(word.start) &&
+      Number.isFinite(word.end) &&
+      word.end >= word.start &&
+      normalizeAlignmentToken(word.text).length > 0,
+  )
+  if (expectedWords.length === 0 || recognized.length === 0) return []
+
+  if (expectedWords.length === recognized.length) {
+    return expectedWords.map((text, index) => ({
+      text,
+      start: recognized[index].start,
+      end: recognized[index].end,
+    }))
+  }
+
+  const sourceWeights = recognized.map((word) => Math.max(1, normalizeAlignmentToken(word.text).length))
+  const targetWeights = expectedWords.map((word) => Math.max(1, normalizeAlignmentToken(word).length))
+  const sourceTotal = sourceWeights.reduce((sum, weight) => sum + weight, 0)
+  const targetTotal = targetWeights.reduce((sum, weight) => sum + weight, 0)
+
+  const boundaryTime = (sourcePosition, edge) => {
+    if (sourcePosition <= 0) return recognized[0].start
+    if (sourcePosition >= sourceTotal) return recognized[recognized.length - 1].end
+
+    let cursor = 0
+    for (let index = 0; index < recognized.length; index++) {
+      const next = cursor + sourceWeights[index]
+      if (sourcePosition < next) {
+        const ratio = (sourcePosition - cursor) / sourceWeights[index]
+        return recognized[index].start + ratio * (recognized[index].end - recognized[index].start)
+      }
+      if (sourcePosition === next) {
+        if (edge === "start" && index + 1 < recognized.length) return recognized[index + 1].start
+        return recognized[index].end
+      }
+      cursor = next
+    }
+    return recognized[recognized.length - 1].end
+  }
+
+  let targetCursor = 0
+  return expectedWords.map((text, index) => {
+    const targetStart = targetCursor
+    targetCursor += targetWeights[index]
+    const sourceStart = (targetStart / targetTotal) * sourceTotal
+    const sourceEnd = (targetCursor / targetTotal) * sourceTotal
+    const start = boundaryTime(sourceStart, "start")
+    const end = Math.max(start, boundaryTime(sourceEnd, "end"))
+    return { text, start, end }
+  })
+}
+
+function readWaveDuration(audioBuffer, fileName) {
+  if (path.extname(fileName).toLowerCase() !== ".wav") {
+    throw new Error(`Local approximate timing only supports WAV audio (${fileName}).`)
+  }
+  if (
+    audioBuffer.length < 44 ||
+    audioBuffer.toString("ascii", 0, 4) !== "RIFF" ||
+    audioBuffer.toString("ascii", 8, 12) !== "WAVE"
+  ) {
+    throw new Error(`Invalid WAV audio (${fileName}).`)
+  }
+
+  let byteRate = 0
+  let dataSize = 0
+  let offset = 12
+  while (offset + 8 <= audioBuffer.length) {
+    const chunkId = audioBuffer.toString("ascii", offset, offset + 4)
+    const chunkSize = audioBuffer.readUInt32LE(offset + 4)
+    const chunkStart = offset + 8
+    if (chunkId === "fmt " && chunkSize >= 12 && chunkStart + 12 <= audioBuffer.length) {
+      byteRate = audioBuffer.readUInt32LE(chunkStart + 8)
+    } else if (chunkId === "data") {
+      dataSize = Math.min(chunkSize, Math.max(0, audioBuffer.length - chunkStart))
+    }
+    offset = chunkStart + chunkSize + (chunkSize % 2)
+  }
+  if (!(byteRate > 0) || !(dataSize > 0)) {
+    throw new Error(`WAV duration unavailable (${fileName}).`)
+  }
+  return dataSize / byteRate
+}
+
+function createApproximateWordTimestamps(text, audioDuration) {
+  const words = extractHighlightWords(text)
+  if (words.length === 0) return []
+  if (!Number.isFinite(audioDuration) || audioDuration <= 0) return []
+  const weights = words.map((word) => Math.max(1, normalizeAlignmentToken(word).length))
+  const totalWeight = weights.reduce((sum, weight) => sum + weight, 0)
+  let cursor = 0
+  return words.map((word, index) => {
+    const start = cursor
+    cursor = index === words.length - 1
+      ? audioDuration
+      : cursor + audioDuration * (weights[index] / totalWeight)
+    return { text: word, start, end: cursor }
+  })
+}
+
 // --------------------------------------------------------------------------
 // Bundle helpers
 // --------------------------------------------------------------------------
@@ -458,6 +585,8 @@ async function main() {
         "  --dry-run    Report what would change without calling the TTS API.",
         "  --lang <c>   Only process one language (e.g. --lang es-uy).",
         "  --id <textId>  Only process a single text unit (e.g. --id pg001_n0001).",
+        "  --ids <a,b>  Only process comma-separated text units.",
+        "  --approximate-timings  Create offline timings from WAV duration; no Whisper/API.",
         "  --force      Re-record even if the text is unchanged (respects --lang/--id).",
       ].join("\n"),
     )
@@ -466,7 +595,8 @@ async function main() {
 
   const dryRun = args.includes("--dry-run")
   const force = args.includes("--force")
-  const valueFlags = new Set(["--lang", "--id"])
+  const approximateTimings = args.includes("--approximate-timings")
+  const valueFlags = new Set(["--lang", "--id", "--ids"])
   const flagValue = (name) => {
     const i = args.indexOf(name)
     if (i === -1) return null
@@ -478,6 +608,11 @@ async function main() {
   }
   const onlyLang = flagValue("--lang")
   const onlyId = flagValue("--id")
+  const onlyIds = new Set([
+    ...(onlyId ? [onlyId] : []),
+    ...(flagValue("--ids") ?? "").split(",").map((id) => id.trim()).filter(Boolean),
+  ])
+  const selectsId = (id) => onlyIds.size === 0 || onlyIds.has(id)
 
   const positional = args.filter((a, i) => !a.startsWith("--") && !(i > 0 && valueFlags.has(args[i - 1])))
   const scriptDir = path.dirname(fileURLToPath(import.meta.url))
@@ -572,7 +707,7 @@ async function main() {
     // be edited in the folder — excluding drops audio, re-including generates it.
     const allIds = new Set([...Object.keys(texts), ...Object.keys(audios)])
     for (const textId of allIds) {
-      if (onlyId && textId !== onlyId) continue
+      if (!selectsId(textId)) continue
       try {
         const raw = texts[textId]
         const sanitized = normalizeRegenSpeechText(raw)
@@ -738,7 +873,7 @@ async function main() {
       const alignedBefore = (id) =>
         !force && storedTimingSkips[id] !== undefined && storedTimingSkips[id] === (baselineEntries[id] ?? null)
       for (const id of Object.keys(audios)) {
-        if (onlyId && id !== onlyId) continue
+        if (!selectsId(id)) continue
         if (timecodes[id] || alignedBefore(id)) continue
         whisperTargets.add(id) // missing timings → backfill
       }
@@ -748,7 +883,7 @@ async function main() {
         } else {
           const whisperEnv = (config.whisper && config.whisper.apiKeyEnv) || "OPENAI_API_KEY"
           const whisperKey = process.env[whisperEnv]
-          if (!whisperKey) {
+          if (!approximateTimings && !whisperKey) {
             result.warnings.push(
               `Word highlighting is on but ${whisperEnv} is not set — timings were not updated for ${whisperTargets.size} line(s).`,
             )
@@ -759,13 +894,19 @@ async function main() {
                 if (!fileName) continue
                 assertSafeSegment(fileName, SAFE_AUDIO_FILE_RE, `audio filename for ${id}`)
                 const audioBuf = fs.readFileSync(resolveWithin(audioDir, fileName, "audio file"))
-                const words = await transcribeWithWhisper(
-                  audioBuf,
-                  fileName,
-                  whisperKey,
-                  getBaseLanguage(lang),
-                  normalizeRegenSpeechText(texts[id]),
-                )
+                const transcript = normalizeRegenSpeechText(texts[id])
+                const words = approximateTimings
+                  ? createApproximateWordTimestamps(transcript, readWaveDuration(audioBuf, fileName))
+                  : reconcileWordTimestamps(
+                      transcript,
+                      await transcribeWithWhisper(
+                        audioBuf,
+                        fileName,
+                        whisperKey,
+                        getBaseLanguage(lang),
+                        transcript,
+                      ),
+                    )
                 if (words.length > 0) {
                   timecodes[id] = { timecodes: [null, { word_timestamps: words }] }
                   if (storedTimingSkips[id] !== undefined) {
@@ -883,6 +1024,9 @@ export {
   stripEmojis,
   normalizeRegenSpeechText,
   isSpeakableText,
+  reconcileWordTimestamps,
+  readWaveDuration,
+  createApproximateWordTimestamps,
   getTextCatalogCategory,
   isTtsExcluded,
   main,

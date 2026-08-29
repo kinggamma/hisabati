@@ -46,6 +46,11 @@ of truth for lines you didn't change.
    `--id pg001_n0001`. Add `--force` to re-record even when the text is
    unchanged (e.g. to re-roll one line you didn't like: `--force --id <id>`).
 
+   When Whisper is unavailable, `--approximate-timings` creates offline
+   word-level timings from WAV duration. Use `--ids id1,id2` to limit work to
+   edited units. These timings follow visible-word order but are less precise
+   than Whisper alignment.
+
 ## What it does and doesn't touch
 
 - **Only changed lines** are re-recorded. Unchanged audio is left byte-for-byte
@@ -60,6 +65,8 @@ of truth for lines you didn't change.
   timings for any line that has audio but no timings yet — so turning highlighting
   on (see below) fills in the whole book. Updates
   `content/i18n/<lang>/timecode/timecode_output.json`; needs `OPENAI_API_KEY`.
+  Whisper tokens are reconciled to the reader's visible words, preventing split
+  tokens from shifting later highlights.
 - **Manually recorded audio is never overwritten.** If you edited the text of a
   manually recorded line, the script warns you (the recording can't be
   auto-updated) — re-record it in ADT Studio if needed.
