@@ -7664,7 +7664,7 @@ span[data-word-index].bg-yellow-300 span {
    surrounding role class (e.g. .adt-body at 1.55) squashes
    stacked <mtable> rows and fraction bars into each other, so reset it here and
    let the layout of columnar sums, long division, and fractions come out right. */
-math, math * { line-height: normal; white-space: normal; font-family: initial; }
+math, math * { line-height: normal; white-space: normal; font-family: initial; font-size: 1.05em; }
 math mtable { line-height: normal; }
 /* A wrapper carrying prose utilities (whitespace-pre-wrap, leading-*, font-mono)
    crushes MathML layout. Neutralise them for the math subtree regardless of what

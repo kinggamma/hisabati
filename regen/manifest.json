@@ -1758,7 +1758,7 @@
         "pg066_n0016": "4a199f91f18661cc40ba5536c8ba270db344a584857a48566484953d452c5a0c",
         "pg066_im003": "55564cf844f3d437a55e37fefc1b917e753c61c0db98bdaaa100bfa0dc1d390a",
         "pg066_n0018": "aaefe52cbfdca85e867d0a895456f660b5602cf3e360c7afd6ed9bcfa7610f7c",
-        "pg066_n0019": "35393620c490ba7df3d1163f24fdc515b23778ece7dcd3d43820aeb19d214c99",
+        "pg066_n0019": "f85ee391296498b4dcfaa6768b9f0b09cd63616426976d279fda042a7cb04266",
         "pg066_n0022": "6b304d06e792b97ac8bbe9c599ee746d9b3f92777c4df007447ec3999cd38615",
         "pg066_n0023": "5e789c1a10eeadf4c4acbba5eb57bb3b755686c931dee0051de292519828b582",
         "pg066_n0024": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
@@ -1942,7 +1942,7 @@
         "pg073_n0008": "79979789abe3dbecbdff064a57d9e300afddf16875de85794bb092f85e7c996d",
         "pg073_n0009": "6f32274909c2dcc4fd55d7fab19b2c90a9d924201c0c13c16797d53261249852",
         "pg073_n0010": "b5a0f3eb02393cecb0e4b447269368ac79a8ef247b38e67bb10c2b2c4a84915f",
-        "pg073_n0011": "ab743c10e4daae5e7f65fc8f11f6584751a53b65e4e6741483e8a41da3d4d1fe",
+        "pg073_n0011": "bad565a57e0771612c8d9d1074a42be15483e3962ee9b953f12bb49a2e69ac3f",
         "pg073_n0013": "6adb0ee4d012180699308f33ee85bc86b079350e61fbca320f12a616e42b1d13",
         "pg073_n0015": "dc02054ea008d5b6ecdd33884453a526d735eb21e9246092ff7d20ad161d4fd8",
         "pg073_n0018": "3fc954d18b54548df5e479076c9a60123c2677505c252ffdb2bbbe3720bd24bb",
@@ -2181,7 +2181,7 @@
         "pg083_n0012": "60cfc2b38e1a82c2ec6cd30ac19e83a2e79245987e4457e7d373d02a5c191527",
         "pg083_n0013": "0c279a97208939619d0fc63cb20c87a547699649a5d11ec04e10196fbce29e7c",
         "pg083_n0014": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
-        "pg083_n0015": "ad1913b55f37ea3b674fed121ba9ce172f026c864ae875051caa32ee409e9b8c",
+        "pg083_n0015": "afe24499ac722605adccfd97dc19440978d0d8c794214979c8eec33d33228d88",
         "pg083_n0016": "8810043665da69c16a43c1dbbd0852ad4d96d9a362462cefec85fb36097861d1",
         "pg083_n0018": "d4899f7d722195f71bf8bdcb3c4b6f2da4f46ce82f01ba0364f99b811b9f7a3c",
         "pg083_n0019": "37a8bfb6bb906d6bdf69b3014bec07499b5270014b6dda37d514b0c9f85c0bbe",
@@ -2191,7 +2191,7 @@
         "pg083_n0024": "ac358a4b1f67ecdac08bf49b8ae04f6c6e818b52858963b77c77c7ed0048cb35",
         "pg083_n0025": "77d59cb222aaabb462230bb42b1dd444c66ba140789b925e3dd7ee2eef07af9e",
         "pg083_n0026": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
-        "pg083_n0027": "a84435289854652163008bbf026db332fdf1b1615188caefc1655638fa550785",
+        "pg083_n0027": "d65b10406391a3da12e6079502ba2dd1cc0a9cc624697ec98dfd1387a8c9ac52",
         "pg083_n0028": "82aa74f6cb2249340b44b1b5444490ce2ba19a1cdd38adfd7ef047dc8483d687",
         "pg084_n0004": "5b1c099852e5d3c9d5f622217b6b6b09bb1a8609e9b94efcc78fb9e675558a69",
         "pg084_n0007": "3fc954d18b54548df5e479076c9a60123c2677505c252ffdb2bbbe3720bd24bb",
@@ -2337,7 +2337,7 @@
         "pg087_n0039": "b58f254bca2ebfdd67c24ef8b0a3d97e4e4ff8f62c7e075910a186a0731a5309",
         "pg087_n0041": "267941460f030023148011cb69814b6d4a958c69544d5b6e347f8c4d60075afc",
         "pg087_n0042": "2b4b322114421d0e6b9b3cf1617fb57c5aa7cd05a9c48943aeead585e30a1851",
-        "pg087_n0044": "5fa17fc1753206cb5908a9570a7a2e9b07294f7996f759fd1900f71e32efc063",
+        "pg087_n0044": "f3a507963a38fc8b563d5fcb05be7abd03d4c9ff051f23afa8b16559fea88c62",
         "pg087_n0045": "06ebae532deee7cacc9a029348f59a7c2fa375242aaf547b6419c325f32857c3",
         "pg087_n0048": "6b304d06e792b97ac8bbe9c599ee746d9b3f92777c4df007447ec3999cd38615",
         "pg087_n0050": "abe60ac9c567a678a2680c1a55f929dd7886cd8039f3499ead623415ca2c2195",
@@ -2422,23 +2422,23 @@
         "pg090_fix_ex3_conclusion": "5c8750d267eca5d733c24915f68e892a7789039c7c641e64a4fb8967019e57e1",
         "pg090_n0009": "4f029a42bf975e66ecdcc0c835792427165bee5b833a20aaaedd1b5bb6b83c36",
         "pg090_n0012": "3fc954d18b54548df5e479076c9a60123c2677505c252ffdb2bbbe3720bd24bb",
-        "pg090_n0013": "05defaa084cb03fc389c9d9e699bb5791bfdde9e71885dadbe7a63d37523ef06",
+        "pg090_n0013": "32de3a6f27d597d24999171b3e38e5c623c66e74e7116396fb27ca429febdb0a",
         "pg090_n0015": "1061f670471a0f66aaab9479364f17ae011082eceef4b182b29258eec851b60a",
-        "pg090_n0016": "c423a63a01308639d049da4a72e8def6ba9cf0143432469e359ee9dbcd42c549",
+        "pg090_n0016": "a7e41324bd2fb64b81f1d5ad00348eecb41325c5ae2a150551acf30af2a360ec",
         "pg090_n0018": "64431958608a1a386b1591374472549ef626a2835bf8df5afad2f90b00285489",
-        "pg090_n0019": "a01ead66ba9d3dec252e630d06b7c3d6e415aecba4fc2791bf377d4b989bfc18",
+        "pg090_n0019": "29b4a87ee5b0bfd71f60df6e65da517913dd4d52d2f000b722b76085602fb795",
         "pg090_n0021": "62e913da4da7461984cac0a198a6ec25126789e2db290c6088da8c9a592521d4",
-        "pg090_n0022": "45a773284578acd7ca5acefc8676b32c8a7549513e4cf079a52d0ce07136e26d",
+        "pg090_n0022": "5453a9a37a08deddd1be52f0b2835e21f4bf768d616649614501775da4d64abd",
         "pg090_n0024": "6e35f7373229b3dcc07a7f4308d6c7e24d305151daa2233fadbaa12b126df695",
-        "pg090_n0025": "77e95cfae03dd7e8a51a20fb442c17b9c1f4c73f167a51f7c896b42496ac0eaa",
+        "pg090_n0025": "d6e81cd6a2b1b5b7724526ec4df825786a2549a2d9279028eb01c567f8fbc187",
         "pg090_n0027": "b72a28682d0e57b99ef439e031c034fec9427a72b9d98af68582c290cd3c6c31",
-        "pg090_n0028": "32142d37b0d443fbfa1ab5be8656e86b7f498bb8c4f271cb2eadb9ad3b29773b",
+        "pg090_n0028": "c27b3aa2149e559ad2509a1d63f1c1fe4eb48f793f98aaf6128b2ddc436faa75",
         "pg090_n0030": "83f257d907afcbfff31ecbb35d5166734d0f53c471b16ff1a15242ef9a4802d9",
-        "pg090_n0031": "19e18688078a84287d275f512d1395456da3b77da7efd19de02a992c8d1058a1",
+        "pg090_n0031": "2c06e7223e912ab65f5b612a3867bf37d03d7ec15cd686650ff9f30c96827f51",
         "pg090_n0033": "9909f7b3825fb8ac5eb2b649928b6742ba1da1fa8b21bbe74bb6ce64ca8403a2",
-        "pg090_n0034": "0c8fe4bf6ed3168280117511f6141df7533394c6309ca7a5413c11561b840532",
+        "pg090_n0034": "45c1df663bb7db8c48f66ced421fabe278d064f43a9e0c4bfc74322ab29b4874",
         "pg090_n0036": "a923d99feac32fa25fe08a3538dae11d6a5a0b110fbc6ea6c36ab242da3b16e2",
-        "pg090_n0037": "90178c01bf13cee0a06827bc6b6a77fd0775a76fccd75fced372edb984bb1c5f",
+        "pg090_n0037": "0b2218046f2f91c17c5a01b9df0928642ab962a10245a59b3a8fa62c99ed4ecf",
         "pg091_n0005": "6cf42b236762c0e55fbadb2416e018c9335288852e9f37bdaa3d3c2f5a5a2f39",
         "pg091_n0006": "26d5dd1cf30a05af5c8d8b4f68534c9406f2b94a915c71c1f0c511a4227d2b6b",
         "pg091_n0008": "6f030f3508d0d38370222882df7351703d0780d5d9ee0fbcea8a8d4f38382fa0",
@@ -2512,7 +2512,7 @@
         "pg093_n0015": "6b304d06e792b97ac8bbe9c599ee746d9b3f92777c4df007447ec3999cd38615",
         "pg093_n0017": "660b5d0cf5764a87a209efb6c7d6fba2354e95d6704f1ecc5446f04059b3c2bb",
         "pg093_n0019": "86a96a8ca0f8ad335f25bc48912097a449bd0e2fac5ca12c9f42ae799719764e",
-        "pg093_n0020": "4733e79ea4bb47d09f4848ea7dc9e96ef8c4a620c71debd05ef71c96cc52e39f",
+        "pg093_n0020": "3b53eab5c8649366280c0c4a086ff5b84d5991c76886beb6965bfd60a071a32e",
         "pg093_n0022": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg093_n0023": "86a96a8ca0f8ad335f25bc48912097a449bd0e2fac5ca12c9f42ae799719764e",
         "pg093_n0025": "d269e0ce7eafc82344d81fc42f1b5fca380b872a5f52039c54e50dfda3b36e51",
@@ -2616,7 +2616,7 @@
         "pg099_n0051": "b0162bec6a2922b77fc8594ad33441b477abd8197940db965db41e2675f3f4e1",
         "pg099_n0052": "82bd85bd2435142f45da08bd9478354c64e272d1d03fdd09b765e071c24343f6",
         "pg099_n0053": "ebdc6c0fb73d66bf970747743577caca099d6584c46b3c68c3d413d9a68edc22",
-        "pg099_n0054": "0bc81f1faffb8ecdff293dd04c48d36e9fcbc46d19823553a5307323188e3e92",
+        "pg099_n0054": "d07a64bae1ccd39a7fb8caf61408a7c5fc3e038c4f5391e37d4fac7333abe94a",
         "pg099_n0056": "6b304d06e792b97ac8bbe9c599ee746d9b3f92777c4df007447ec3999cd38615",
         "pg099_n0057": "045d4d6ed931e382be4b6d1056a6795853729ec713403264db04a823ed31112d",
         "pg099_n0058": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
@@ -2624,7 +2624,7 @@
         "pg099_n0060": "2e9b96e11fe3aa4c3500ac4a444613f84bf8213c53f9c035eaa0e9b7f1bbbf2f",
         "pg099_n0061": "82bd85bd2435142f45da08bd9478354c64e272d1d03fdd09b765e071c24343f6",
         "pg099_n0062": "01562a72db6c7f0ea24da1e598df15a55abaca58d5aca1f48efd482b4529739b",
-        "pg099_n0063": "398883b24b062628a816de3ea04ffe101f53bb7b5fc0d70df31335b71a9a8e14",
+        "pg099_n0063": "eb99c0a03fc7821e28ed6612b852e1596d55fffae72c48e5bf71d6690b767086",
         "pg100_n0006": "71db7c48fa55b7385fb1d9bfcad584c2923cd248eb83a0c7dfbb63bdaec021ef",
         "pg100_n0017": "22939cd1981ccbfafbd9e6641ce50af864959b9388fe82fa3704c6275a35c8e3",
         "pg100_n0019": "d0d653b1bdad9d8315078a250b5dcc19545ba84f64ffb13a9304045b5aef6a54",
@@ -5610,7 +5610,7 @@
         "pg066_n0015_easy_read": "c07ea93411b91dbdbd37e569492c685da18e25d9861bbb2932f3be88552aba64",
         "pg066_n0016_easy_read": "4a199f91f18661cc40ba5536c8ba270db344a584857a48566484953d452c5a0c",
         "pg066_n0018_easy_read": "aaefe52cbfdca85e867d0a895456f660b5602cf3e360c7afd6ed9bcfa7610f7c",
-        "pg066_n0019_easy_read": "35393620c490ba7df3d1163f24fdc515b23778ece7dcd3d43820aeb19d214c99",
+        "pg066_n0019_easy_read": "f85ee391296498b4dcfaa6768b9f0b09cd63616426976d279fda042a7cb04266",
         "pg066_n0023_easy_read": "5e789c1a10eeadf4c4acbba5eb57bb3b755686c931dee0051de292519828b582",
         "pg060_n0044_easy_read": "12a369b52e39b2905d8b555fc0104474a74f6a2b5e37fcdcdd8643f768a580e4",
         "pg064_n0008_easy_read": "fd2463ab4632475c6aa142a98111bd45644dc375c359d04d37a10e1e153f8dbb",
@@ -5699,7 +5699,7 @@
         "pg069_n0039_easy_read": "dbaa7fd3b924a063520ebb94555d3a73f4a82153ecbe05a0f9191614293d07d1",
         "pg065_n0005_easy_read": "88f6292e95a3e99b3fbffd1c2ee79721489575bb200278fde070b1dfffaa6edc",
         "pg067_n0011_easy_read": "52efef6673159a81816665f9a6b76aa320d5adb2092649be63f25ac3ef61abda",
-        "pg067_n0016_easy_read": "2f48c9ffa8ee5a3c6f6b07f58c2a43997636966d8269dd2b5094e3469b5c0e53",
+        "pg067_n0016_easy_read": "646119ba87d49fdcbeea234b7fe2689a749b373da3668e36afe2b65c7107a7b2",
         "pg070_n0004_easy_read": "6e04575f86e0c8d3d1b47644817da2266f51ca12803fa73ed3acb3ea059ca624",
         "pg070_n0005_easy_read": "d494188a4f54566a221aa5a744758abf0ed03fc1af71bbafcc889bae633ae0e2",
         "pg070_n0006_easy_read": "3d9b67697fd216e571b8c15e531447caa8643471b19bac61c1ebccba8cfb979b",
@@ -5770,7 +5770,7 @@
         "pg073_n0006_easy_read": "7a3fe97b07269b9195147650c7b871df76b2f3d2d6194a54435f0de066499b2e",
         "pg073_n0009_easy_read": "6f32274909c2dcc4fd55d7fab19b2c90a9d924201c0c13c16797d53261249852",
         "pg073_n0010_easy_read": "b5a0f3eb02393cecb0e4b447269368ac79a8ef247b38e67bb10c2b2c4a84915f",
-        "pg073_n0011_easy_read": "ab743c10e4daae5e7f65fc8f11f6584751a53b65e4e6741483e8a41da3d4d1fe",
+        "pg073_n0011_easy_read": "bad565a57e0771612c8d9d1074a42be15483e3962ee9b953f12bb49a2e69ac3f",
         "pg073_n0018_easy_read": "3fc954d18b54548df5e479076c9a60123c2677505c252ffdb2bbbe3720bd24bb",
         "pg065_n0022_easy_read": "b91683d778641b17bef68be6ae585cc05e473a111c385e0e616402f63270a3ae",
         "pg073_n0021_easy_read": "1061f670471a0f66aaab9479364f17ae011082eceef4b182b29258eec851b60a",
@@ -5840,7 +5840,7 @@
         "pg074_n0013_easy_read": "25dbdef42c0978d04606d092dcbabb292998fb9c7374e758b79ad91b232841a3",
         "pg076_n0015_easy_read": "aba8e9a0756a9228eeb6ed9df52d3dd89840d07f6db2c296332710c89493c93e",
         "pg068_n0071_easy_read": "b59c7b1cd92ec8756a9b47c9281d6bb4db28dd325fab9637163cb7b05abaa872",
-        "pg067_n0006_easy_read": "585b3eaab20a83d0d4c0553e0953d8f03dafb41f3438c0e28782e922a11b5a3a",
+        "pg067_n0006_easy_read": "b80de08b148355284982d049052604ca585475408fd36203f04797905d177b69",
         "pg063_n0006_easy_read": "b170b2934e3ba924a1fc207fe8a76e9b2cb3fec19906bec8a5f7453701133001",
         "pg076_n0021_easy_read": "aba8e9a0756a9228eeb6ed9df52d3dd89840d07f6db2c296332710c89493c93e",
         "pg067_n0012_easy_read": "8229d92b6338241870b55449e8393462038adfd9aa49f494f76cf447ecb64438",
@@ -6244,7 +6244,7 @@
         "pg088_n0047_easy_read": "4dbf56b868878bdff8825fe9e5bdd8ad95a2b0afee11897a9c2b7289392cdd1d",
         "pg087_n0042_easy_read": "9751d5ac1b5fa7c350a396549df8fe5796a2be58db1f4c1479f74af016801246",
         "pg093_n0019_easy_read": "86a96a8ca0f8ad335f25bc48912097a449bd0e2fac5ca12c9f42ae799719764e",
-        "pg093_n0020_easy_read": "4733e79ea4bb47d09f4848ea7dc9e96ef8c4a620c71debd05ef71c96cc52e39f",
+        "pg093_n0020_easy_read": "3b53eab5c8649366280c0c4a086ff5b84d5991c76886beb6965bfd60a071a32e",
         "pg093_n0023_easy_read": "86a96a8ca0f8ad335f25bc48912097a449bd0e2fac5ca12c9f42ae799719764e",
         "pg093_n0025_easy_read": "d269e0ce7eafc82344d81fc42f1b5fca380b872a5f52039c54e50dfda3b36e51",
         "pg086_n0062_easy_read": "3aa91ec20241ef6268f6001452649c86871b2a76b67c055dcce5ebd838897bf3",
@@ -6252,7 +6252,7 @@
         "pg092_n0036_easy_read": "0bc396ab5b3e5dcd621493e5c48ce2371809859ba5f509cda7bfe777bd91d5a8",
         "pg094_n0006_easy_read": "61ca817c404114403d013962d26afccdfd9d68b4526bdf301072ba2a2ce256f7",
         "pg094_n0007_easy_read": "aa081b0ee01241cdf1f7f0fd4588f8cfb52653984d7fc914732bca5efc7d952e",
-        "pg088_n0034_easy_read": "bfa87b4ee4876f0feb9d46332b9642b40659fce7b3ad8d9561bf17e96e8bd3ce",
+        "pg088_n0034_easy_read": "30f18cfefef22575645262ea52638a7f716ef5f32e1e35946b0ff6c146de1364",
         "pg094_n0010_easy_read": "c6e52389952fb98fdde1284ff5aff04812db18fa856e0a32f78c37424ead90b0",
         "pg094_n0011_easy_read": "2c9ff9f832182ba567d4a521a1c43e1210c42c7575137c1c45f4f6792a140b68",
         "pg094_n0013_easy_read": "05039142a81b5a26b935cb6b58a5752a7350c28201901dc417791712c788ccab",
@@ -6327,13 +6327,13 @@
         "pg099_n0051_easy_read": "b0162bec6a2922b77fc8594ad33441b477abd8197940db965db41e2675f3f4e1",
         "pg096_n0032_easy_read": "3d67e117c818f73f67d403bd9e466925882c7e5babce0cb9839ae1ebf72e1217",
         "pg099_n0053_easy_read": "ebdc6c0fb73d66bf970747743577caca099d6584c46b3c68c3d413d9a68edc22",
-        "pg099_n0054_easy_read": "0bc81f1faffb8ecdff293dd04c48d36e9fcbc46d19823553a5307323188e3e92",
+        "pg099_n0054_easy_read": "d07a64bae1ccd39a7fb8caf61408a7c5fc3e038c4f5391e37d4fac7333abe94a",
         "pg099_n0057_easy_read": "045d4d6ed931e382be4b6d1056a6795853729ec713403264db04a823ed31112d",
         "pg095_n0027_easy_read": "1cde10c9100962bcf7918af93a65caadc3af5d0dfb86b526cba804bbaad1fee9",
         "pg099_n0060_easy_read": "2e9b96e11fe3aa4c3500ac4a444613f84bf8213c53f9c035eaa0e9b7f1bbbf2f",
         "pg098_n0022_easy_read": "a485f45b51bb11c1ebab94bd9f5882a62016648a4f64359db00dec62563903d3",
         "pg099_n0062_easy_read": "01562a72db6c7f0ea24da1e598df15a55abaca58d5aca1f48efd482b4529739b",
-        "pg099_n0063_easy_read": "398883b24b062628a816de3ea04ffe101f53bb7b5fc0d70df31335b71a9a8e14",
+        "pg099_n0063_easy_read": "eb99c0a03fc7821e28ed6612b852e1596d55fffae72c48e5bf71d6690b767086",
         "pg092_n0030_easy_read": "8afb1b13057d40eef423094707737cd74fcb6f36c430d153085bebadefd102e2",
         "pg095_n0024_easy_read": "744dde690c47b3c28e8c343707163bac2547526b3910ed4cda8ece2b008d4cc7",
         "pg100_n0024_easy_read": "4e95a5390af20fc3a43b72ff4849fe884c20ae4aa96bbed3a1db1b4534a56d68",
@@ -7273,7 +7273,9 @@
         "pg014_n0093": "1f8b873a27ad76df34b30ed01001b0ff41e2e6f3f77b99be61a12f4c73ce8b97",
         "pg014_n0093_easy_read": "f362aa2ec0400ca3cc222fa20d3aae7dd83622022b0cc8a6b1b6e24efcfb5373",
         "pg014_n0094": "72e8961e464c1911ebc660bb09e498a1b77c06bf4b2966d55a042d66ceee3b40",
-        "pg014_n0094_easy_read": "a1891a31a5091b26d2c0ed9bea962db2f4dfb137fa6bce205b25c75746bcd69d"
+        "pg014_n0094_easy_read": "a1891a31a5091b26d2c0ed9bea962db2f4dfb137fa6bce205b25c75746bcd69d",
+        "pg129_n0009": "3737e8fa513c12d03694f89c1f8dfddc0b748ea9e8d6b1305900d42b55e75eca",
+        "pg129_n0018": "82c219ad632d34499ba1ae1b9a67f9afdac5471551e54b6426a820889af60977"
       },
       "entrySettings": {
         "pg003_n0006": {
@@ -8131,6 +8133,1266 @@
           "format": "wav"
         },
         "pg014_n0094_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg054_n0003": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg054_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg054_n0023": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0071": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0074": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0077": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0066": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0068": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0069": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0072": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0075": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0078": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0080": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0003": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0005": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0006": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0007": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0010": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0014": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0015": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0017": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0020": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0023": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0025": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg065_n0031": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg065_n0033": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0025": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0028": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0030": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0031": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0033": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0034": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0036": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0037": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0039": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0040": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0042": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0043": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0045": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0046": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0048": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0051": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0052": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg083_n0015": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg083_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg087_n0044": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0025": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0028": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0031": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0034": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0037": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg093_n0020": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg093_n0020_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg073_n0011_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg067_n0016_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg088_n0034_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg099_n0054": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg099_n0054_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg099_n0063": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg099_n0063_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg073_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg067_n0006_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0005": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0006": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0008": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0014": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0017": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0025": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0010": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0023": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_13": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_14": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_15": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_16": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_17": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_18": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_19": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_20": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0029": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0030": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0034": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0037": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0040": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0043": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0046": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0049": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0052": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0055": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0058": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0061": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0064": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0067": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0005": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0006": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0007": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0008": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0010": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0015": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0017": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0020": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0023": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0015": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0030": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0033": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0039": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0042": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0045": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0051": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0054": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0057": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0061": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0065": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0069": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0048": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0036": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0008": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0010": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0017": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0020": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0026": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0028": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0029": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0030": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0031": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0034": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0037": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg066_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg066_n0019_easy_read": {
           "provider": "gemini",
           "model": "gemini-2.5-flash-preview-tts",
           "voice": "Kore",
@@ -9018,6 +10280,1266 @@
           "format": "wav"
         },
         "pg014_n0094_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg054_n0003": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg054_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg054_n0023": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0071": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0074": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0077": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0066": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0068": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0069": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0072": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0075": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0078": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg056_n0080": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0003": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0005": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0006": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0007": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0010": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0014": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0015": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0017": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0020": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0023": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg063_n0025": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg065_n0031": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg065_n0033": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0025": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0028": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0030": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0031": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0033": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0034": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0036": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0037": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0039": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0040": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0042": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0043": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0045": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0046": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0048": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0051": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg071_n0052": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg083_n0015": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg083_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg087_n0044": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0025": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0028": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0031": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0034": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg090_n0037": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg093_n0020": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg093_n0020_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg073_n0011_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg067_n0016_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg088_n0034_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg099_n0054": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg099_n0054_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg099_n0063": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg099_n0063_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg073_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg067_n0006_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0005": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0006": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0008": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0014": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0017": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0025": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0010": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0023": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg108_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_13": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_14": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_15": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_16": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_17": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_18": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_19": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_cont_20": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0029": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0030": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0034": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0037": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0040": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0043": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0046": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0049": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0052": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0055": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0058": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0061": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0064": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0067": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0005": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0006": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0007": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0008": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0010": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0015": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0017": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0020": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg122_n0023": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0015": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0030": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0033": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0039": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0042": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0045": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0051": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0054": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0057": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0061": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0065": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0069": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0048": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg129_n0036": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0008": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0010": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0017": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0020": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0021": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0022": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0026": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0027": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0028": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0029": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0030": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0031": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0034": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg135_n0037": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg066_n0019": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg066_n0019_easy_read": {
           "provider": "gemini",
           "model": "gemini-2.5-flash-preview-tts",
           "voice": "Kore",
