@@ -1174,6 +1174,9 @@
   .max-w-\[220px\] {
     max-width: 220px;
   }
+  .max-w-\[380px\] {
+    max-width: 380px;
+  }
   .max-w-\[260px\] {
     max-width: 260px;
   }
@@ -5502,6 +5505,11 @@
       max-width: 260px;
     }
   }
+  .max-lg\:max-w-\[320px\] {
+    @media (width < 64rem) {
+      max-width: 320px;
+    }
+  }
   .max-lg\:max-w-\[360px\] {
     @media (width < 64rem) {
       max-width: 360px;
@@ -5929,6 +5937,16 @@
   .max-sm\:max-w-\[220px\] {
     @media (width < 40rem) {
       max-width: 220px;
+    }
+  }
+  .max-sm\:max-w-\[240px\] {
+    @media (width < 40rem) {
+      max-width: 240px;
+    }
+  }
+  .max-sm\:max-w-\[180px\] {
+    @media (width < 40rem) {
+      max-width: 180px;
     }
   }
   .max-sm\:max-w-\[260px\] {
