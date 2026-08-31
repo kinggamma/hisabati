@@ -789,7 +789,7 @@
         "pg030_n0047": "4068b5abfb5ee6f301fc10adca211273782b3a5222ee927d1f6829d32e701f39",
         "pg030_n0049": "df99e634af45ecbdd7e5d9722e889791f02076da4b44407b998d6c48be177b1b",
         "pg030_pi_sentence": "32619995d1b57fefc206ceae89bf7426746ff168ab68614e88977e516e2c4496",
-        "pg030_fraction_sentence": "7631cb00e59d2cbf8bb837fbd71aeba69f0f601731cf14bbe32396647abed71c",
+        "pg030_fraction_sentence": "76ce600e0f5c45779781fb50c8f9c2fc7dcadb6f2ee7b0c21f42d1ca5d827870",
         "pg030_n0057": "a3392fa8140f66a0ebe4adc4ae820a75841306df3fe69dde375d00e0b5fd54b5",
         "pg030_n0058": "bd0efd54c1d7b1c500bb7bae1804636e4758f6ca1c620168fcdc3f154044a2b8",
         "pg031_pi_ratio": "0d41787d29b0fa1b390971063a2abe82c699d0757264ee9e116a4d035955ad0b",
@@ -834,30 +834,30 @@
         "pg032_n0033": "c6d14dfec4b3fc5839f473b49e5363e5052a31a3a38fa89eb7728842fed1d568",
         "pg032_n0036": "dec03a2bdcfa3d1e2a6487208a18b5d34f6cc127014d10c250f246515db35451",
         "pg032_n0038": "140e088f32d9d5832440b2fccec5a6b095c53068dfe8d1a7115f5ea07eca6e99",
-        "pg032_n0040": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg032_n0040": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg033_n0003": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg033_im001": "1abbad4e01b845592e61b7f9466200d3b9d435abadd5d8e031aa261f29ac3f5d",
         "pg032_radius_label": "161a74af97b478ee75d03c441915a0e996ba433ff811faa7dfa7a44204f17b5b",
         "pg033_n0004": "2e2527e59addcbaa11dc870055d20ba20d82fe657b9f5211eef9942bf4a29530",
-        "pg033_n0005": "fcbb3c413c2098356cb454f077f6b8abf837007feb869b604a43fcf2d38c1c86",
+        "pg033_n0005": "72a9c3d98b94a4d8fd3302854a18d0a147f232bc205bb6bb97c435491af5e036",
         "pg033_n0006": "f1151eb8110381956016be0ef6c86338c32048dd8729b66ddf10bbffec48b311",
         "pg033_n0007": "e47689550285990f4b0cf27f7e7f2c69f1ee3894909051922a1e4be71acb9c72",
         "pg033_n0010": "6b304d06e792b97ac8bbe9c599ee746d9b3f92777c4df007447ec3999cd38615",
         "pg033_n0012": "60b369c19c494dddff1f20956f6610bc08ab76ee62fd0d3b63722aee35f5f023",
-        "pg033_n0013": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg033_n0013": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg033_n0014": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg033_n0015": "5870a6af7a8295361aa60b25cf62a20ad3a26782489f9cee5becb9342a947ca1",
-        "pg033_n0016": "cbcbb494ef6e601cc09cd21b0f3e231778fe267661857a8468fb603fa5e46980",
+        "pg033_n0016": "b7e57015ac5e93d5faeafb0f27612aced86dcfa8a2b5cb0271882dafa18d5d02",
         "pg033_n0017": "81b3d151bcae0e5147b62a1857b815cc0f0efec115e2cf9bbe010091dec8a7f4",
         "pg033_n0018": "96711b29c6471b2e6373c3c018b3c199ff841811055de78346f0fc42e1fbb1f5",
         "pg034_n0004": "4086a103a0f42a2a7232b87d36ef30c0e50dd310faa7ef36cebe23313a173118",
         "pg034_n0006": "1e67570a2d0069a014a84a23deac8e42462dbb0317581d3ca9c7343e9cc57a51",
-        "pg034_n0007": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg034_n0007": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg034_n0008": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg034_im001": "853779cade9817bfda59e57a471622add627b932476beb9ac162305d34e0eab1",
         "pg034_n0010": "e5a52e43f758ec3ce68323114a98a867fe49e07f205db08e91f8a9decbbee20f",
         "pg034_n0012": "e24e207b3c76bafc35b2c3cfc5e12b2bc4d850de4c14082a8cc705d0aa3c282d",
-        "pg034_n0013": "c6b48dd023b6d6850d916479d873f7fe9a5674f25562051c7f2d2b1f5046e1e6",
+        "pg034_n0013": "e914fc9b94f335ae254ffbd01bcfabeddb02da68f9c59c411796482ab069214a",
         "pg034_n0014": "770f3b84cb49eee079719b7ce2f04e8c03423de3fb4e6b6e7b9f8b7b6db23e80",
         "pg034_n0016": "346f3f855281ebdfa32e88fec9533da37739ce4e0b3eae5c7579eb0f8865e15b",
         "pg034_n0019": "5aa107e15134cc597501c39037c68006cdb1b2f3abad8f03e89e1c258de15f78",
@@ -868,12 +868,12 @@
         "pg034_n0026": "ee70249b5a108786ea6a6984d0c5dd55f7395c0d72074cb02eae2835388bc12d",
         "pg034_thus": "c6e52389952fb98fdde1284ff5aff04812db18fa856e0a32f78c37424ead90b0",
         "pg034_n0027": "375ea14f157957c37a06e160bceb032cd5c2638572ea513172bd5131259f49cf",
-        "pg034_n0028": "d0afaa19d132b49d15d54b7ddc5c5d9bbc99870c5ed9b97def7272ca2b96db54",
+        "pg034_n0028": "649c43ffc30851f8c7c60f9489550eb5f8eb50b0891eb7b71673a5ddabc349bc",
         "pg034_n0029": "c7e6a655ffaf13e339a4ce7b3fa755dd4709211d1de740a542a60d2ce8734e21",
         "pg034_n0031": "305f07e03c9c2a252145e5e06c8bf8feb815bba088114407e039461e658ac825",
         "pg035_n0003": "5b1c099852e5d3c9d5f622217b6b6b09bb1a8609e9b94efcc78fb9e675558a69",
         "pg035_n0005": "34cddfa0ca46a6b8b63c4b23af8415a25daee7065b7391f52191ca086caf0795",
-        "pg035_n0006": "82291294d212a39de7ab6e670a1b0572cfc9be96ea6bf6b4e6b7605eaa89d8b8",
+        "pg035_n0006": "04db4d268fbe5bf33ca04ec7d6b3428daa4cfa6cdce5beb7994cf1773f27adea",
         "pg035_n0009": "3fc954d18b54548df5e479076c9a60123c2677505c252ffdb2bbbe3720bd24bb",
         "pg035_n0010": "f5cdd380ba5b03cf1ff0ddb9d0eebbd71b7df648ac238528e94feb64b78210ca",
         "pg035_q1a": "b642b0de6b27acd22f155b4eb00baf7579d3a6e4ad856832b01ff7feeda3b5ee",
@@ -967,17 +967,17 @@
         "pg038_n0020": "df624ae9cc5f544ea621f99ba7e3bd533af6b94c40134765672adf58ef11de61",
         "pg038_n0026": "dec03a2bdcfa3d1e2a6487208a18b5d34f6cc127014d10c250f246515db35451",
         "pg038_n0028": "99e760b15205194d65b8d268cdebba157c3f57f164a2325cbd7dc289ae599699",
-        "pg038_use_pi": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg038_use_pi": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg038_n0030": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg038_n0031": "98ed383a93d687db7a8254a9828ac91997b0c2990d94537a67892de70e3ea05e",
-        "pg038_n0032": "fe3d0f94667381b53f1d5697038a647a8f8857839682de12c44c0dcfc9c61b5a",
+        "pg038_n0032": "fbdd7e1482b6db31c314de28e6bb43a44c04ce1935f12fc64400a1fb15a496c2",
         "pg038_n0033": "b7ade8435ef977178b5490c16e41d945a8f9629dc89e7bb966396553f507ff4b",
         "pg038_n0035": "7bb8a1c06aece3f1421ea8f4e29f9957b9dfaa1937f067881f02b6678e513d58",
         "pg039_n0002": "6b304d06e792b97ac8bbe9c599ee746d9b3f92777c4df007447ec3999cd38615",
         "pg039_n0004": "16c049b937caaf3547655910ee0e79624c5245bc41d02fd2cf826660903ba0c2",
         "pg039_n0006": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg039_n0008": "88f502cc7dc3ed668f6d80dddba60fc76568d1030bc461dd00bfca141caf14a7",
-        "pg039_n0009": "8145b97c619f0b1ef6dd270c1617f76f5b116a651ee0b5856d7f8e82dd9f35c9",
+        "pg039_n0009": "6e47f07ae5d291a69b6dcc7d1b2a38d47acfe2fbf9b6bfff46f30f81d30bf702",
         "pg039_n0010": "b9cdaf7c3567d53c0d8897f0f87c2c7a5296cfcc258ffaa2083ba4d11b1dc85e",
         "pg039_n0012": "48744cde8cf1d87864e4c3fd893240955a5b49137d227583f8540fbd7f155bdd",
         "pg039_n0014": "4086a103a0f42a2a7232b87d36ef30c0e50dd310faa7ef36cebe23313a173118",
@@ -987,13 +987,13 @@
         "pg039_n0021": "379c271d950b3bad7d30874a84c411d9298d61b5e2830373be4a0312306b351e",
         "pg039_n0022": "6f124a243c64a4a85e567395383604af59f8c9140849f610932c7c01af33740d",
         "pg039_n0023": "88f502cc7dc3ed668f6d80dddba60fc76568d1030bc461dd00bfca141caf14a7",
-        "pg039_n0024": "e3b0efc0408eecc1735af2d48a107f136040e686395af6c53af68efa68582a2a",
+        "pg039_n0024": "11f77f2d0fd6223d97570c1a350cc646511c46102a228cd75dd503f99d90e951",
         "pg039_n0025": "c1723acc65680de23fd95135270a820e7d78466a69214629014eb82caee2123d",
         "pg039_n0027": "1a6c8df33bb26780fbf34e2f7457fb60fbceea572e7d193fbf83bd44b72747b0",
         "pg039_n0029": "6adb0ee4d012180699308f33ee85bc86b079350e61fbca320f12a616e42b1d13",
         "pg039_n0031": "cd69b54894c08c355942c06ed6c21ccd7b814220a9009e643bcd83ce66c7f218",
-        "pg039_n0032": "3ce54ee40b31d3f08451c8875eeaba24aeee8f32a89bcd7b7977630f68679608",
-        "pg039_n0033": "c3628eadca3004a8c7011c7d839ceac7dac9277c8e85c38ee7922e7398adb88c",
+        "pg039_n0032": "2464e0a67f6e38dc1b593b27fa81da3f3413b7398f8bb8deca32b31c844108f5",
+        "pg039_n0033": "490bdfd795739101ea23ab2c5a71e7e286bea606382a4489451905c4f8cb8d58",
         "pg039_n0034": "c1723acc65680de23fd95135270a820e7d78466a69214629014eb82caee2123d",
         "pg039_n0036": "1a6c8df33bb26780fbf34e2f7457fb60fbceea572e7d193fbf83bd44b72747b0",
         "pg040_n0003": "52eb94dd04db3efbb217771dbbe0727c0e3df4db07031bb88ecef71737f07ad0",
@@ -1041,7 +1041,7 @@
         "pg041_n0004": "b86f740411b52ad949643718985e3f5321bb4795d19ba954c5cffa50ccfc46e7",
         "pg041_n0005": "2160ea33a001b4387a2d1200dc90456ccfa18946d615965a3b9bac4ead042be4",
         "pg041_n0006": "f6ad998ae48835dc176ce704de1a6d4a3798ea59d45a0355c9b584b73749b571",
-        "pg041_n0007": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg041_n0007": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg041_n0010": "dbf6643ffb196ddb3890657d2b69e71f04268764bd47ec8cfa2ef113eb66b23a",
         "pg041_n0012": "4b27f13c002f21139c688887036c64dd935d5c826bc00537e0c51fd67c304f8a",
         "pg041_n0013": "c1abfe62b3cdf7938027f25a7e8b2c33974eb42ac19a78986b7d2c74d9b8d610",
@@ -1749,7 +1749,7 @@
         "pg066_n0005": "15db7e6cf2cbce86f4999b5ac309dc4839142bf570676b233cef27874103b982",
         "pg066_n0006": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg066_n0008": "4bc2f68f1bdb94645b17448464602d390cdfa8bc01cb6d8aef0007f8a4f31309",
-        "pg066_n0009": "a9b0076424e9afdb01bb6fd0469445045412a1342a4221b604aae26701e7597f",
+        "pg066_n0009": "064b73351adc20e50ccde8349a426813d5d63683c9025a550e33d1dfdbf2bc3e",
         "pg066_im001": "fdc1854b7ed0340a59481f1463d30d0bf8bfe8e7d4f63a18404e07510f88b79f",
         "pg066_n0012": "9692783bf97e21f37d57043e561282730fb001f415dcd3fa3130e45aa34d57ee",
         "pg066_n0013": "f92354a7455166c8d777d2068917dae55f843fa2466355d0f4b7728266e42198",
@@ -2596,7 +2596,7 @@
         "pg097_n0022": "6adb0ee4d012180699308f33ee85bc86b079350e61fbca320f12a616e42b1d13",
         "pg097_n0024": "60663c684f0f5727f24fdd770e19caf4fdb5f176e20a12156b38f6c3e925c8ad",
         "pg097_n0025": "3ead3d746b40a76780a14681c55ad95897c53f29099b13b52a90371039119f5f",
-        "pg098_fix_alternative_division": "98e40cbd34c815fba5ca16022694eacf23a03fbf120db86e05653abbfbd4057d",
+        "pg098_fix_alternative_division": "ba8b8fe74c4ae061cb41c1bd800488bf16360bf8c98561bfda1b89df69b60d1f",
         "pg098_n0013": "6b5cc44e3461b4979c7be4609a8b584906599efaeb3c6e428eb24a082c83597e",
         "pg098_n0014": "f4b1c4358f14a832336c5d5ab17b92b8e1e8bf022577ee2359fc1406a1c5e13c",
         "pg098_n0017": "5aa107e15134cc597501c39037c68006cdb1b2f3abad8f03e89e1c258de15f78",
@@ -2644,9 +2644,9 @@
         "pg101_n0008": "7dd35479230a6cce31400d01b4419c7da7af9ef557dccb1b991518c868d37454",
         "pg101_n0009": "6a6dc736da846f5ea131e7c4273f0639d841a71522fe90e972433725dd1ed9c1",
         "pg101_n0010": "2346a173c24e7b1efa036005d9035225d28ced669c4d8b882a516513c113ae0f",
-        "pg101_n0011": "7bdd0cc16a8a9e5bf1e9208c2ae80f6ac067161191fc6612872e3bc70e0e43e4",
+        "pg101_n0011": "afebd3d4b2c78aaea13050ccb4fefd4f61cc385e45cb9aa63efd50d4056689c2",
         "pg101_n0013": "ee60b4d443abe8949a5580d120842faa9876ff2718e55cc0d7f9f8a861ddee81",
-        "pg101_n0014": "386bfd238423bf1b9d0aa6a94ff9656c3e073085dc2679a312dbb9b6aaf2c137",
+        "pg101_n0014": "c53b594e2d6adb39dc9219ba9622c8cf3c800907f494ead73a9443013d2243a6",
         "pg101_n0020": "604af57899820fbd7c33d913e2ea4ff77b6a29117b1b8c7af856d780b54bf32d",
         "pg101_n0022": "604c68182b25c9d135ae5e760dca1e58cc5cfe4e6eb126249ebc7c9a7c7c68c8",
         "pg101_n0025": "8b690c4248d22b6e12f4d9db6aecee62e4eea9a97ea95cd28ea4eb57db4c14c2",
@@ -2815,12 +2815,12 @@
         "pg109_n0082": "f9e0d408a81e3fadf58ed3e82e4680424f42f543c55a87c1acaf565edcf4853e",
         "pg109_n0083": "683aade0a74b82b45af62270f1ccc754948384b916763a25bb17d960e86ef716",
         "pg110_n0003": "6b304d06e792b97ac8bbe9c599ee746d9b3f92777c4df007447ec3999cd38615",
-        "pg110_n0004": "ec47d661f8f415c819e0f491f8e2f890df260f7d3639b778b2dda0de234eafef",
+        "pg110_n0004": "4cfd9ffc33ea74c7b5bbc5d902c89d3e057160bff03643daabe6296f692d8752",
         "pg110_n0006": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg110_n0008": "f09a20407f2046825b2554299f5d299d3af2e5502a1e6514932ce68ee4b313cf",
         "pg110_n0009": "11d89e00027412a1ab26610dfa5ce9ad8bc590f5635c96ed5543cfeee5141b5f",
         "pg110_n0011": "4086a103a0f42a2a7232b87d36ef30c0e50dd310faa7ef36cebe23313a173118",
-        "pg110_n0012": "0d20125f9b701c7318ff410f7292a3c51e193fc04779f83c0ec43d7188eff7c1",
+        "pg110_n0012": "cbbd22875caaa9068f264a44151469299d77c33e361b215a4c754672d5025989",
         "pg110_n0014": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg110_n0016": "b9e818094c35b1414d3228ed7c08976b58481537a4fa9acdcfa07d390bee7651",
         "pg110_n0017": "20fb0fb2dc104e5428f0f5a0135e5e332f4897c46095e1d3c9a6980642bf213b",
@@ -3389,7 +3389,7 @@
         "pg134_n0015": "41b0d781fb4f26b82194d6e952693af2bac4b11ae30aa31f8e87307b760c5395",
         "pg134_n0016": "fc4fbab6e4defb88a8a293fca9281963645d9db8630035e4743f697a7b0ec4a4",
         "pg134_n0017": "0ddbe5ec67d405889d6d24b1ad73f852bd28015b5818a96605aad89c6e0388c7",
-        "pg134_n0018": "509f8867cd179f80ec5e81805ace07d84f762374a5cf2e78f6c2f77f0ccf9f0e",
+        "pg134_n0018": "1ff284b000497f5bbff61c9a8fb5a6a5aee42a37c562057b28db0f076d4a9a06",
         "pg134_n0019": "718db58f8ac9ea7cacf9f07bfc27ff510e3200230bb7ee3e7f04e854c4e51a62",
         "pg135_n0008": "ab95a856d1540a1c60108f62c5b16b75059feb11a562fe5e53b8ae9e068eb3ac",
         "pg135_n0009": "5e6b6f1acd4bdc9d8bd6218592a5ecc074266cd96cb9ad2b8d82ea5b4af146d3",
@@ -4740,28 +4740,28 @@
         "pg031_n0011a_easy_read": "10ad4a84b4e516890059769298e06a38c64c36c45c1c22a10521cb2c7b21041c",
         "pg032_n0036_easy_read": "39e61e3276eed8e6d1b79773e553ee80d9a98d25439ef17755d6dd40770ca899",
         "pg032_n0038_easy_read": "140e088f32d9d5832440b2fccec5a6b095c53068dfe8d1a7115f5ea07eca6e99",
-        "pg032_n0040_easy_read": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg032_n0040_easy_read": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg033_n0003_easy_read": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg032_radius_label_easy_read": "161a74af97b478ee75d03c441915a0e996ba433ff811faa7dfa7a44204f17b5b",
         "pg033_n0004_easy_read": "2e2527e59addcbaa11dc870055d20ba20d82fe657b9f5211eef9942bf4a29530",
-        "pg033_n0005_easy_read": "fcbb3c413c2098356cb454f077f6b8abf837007feb869b604a43fcf2d38c1c86",
+        "pg033_n0005_easy_read": "72a9c3d98b94a4d8fd3302854a18d0a147f232bc205bb6bb97c435491af5e036",
         "pg033_n0006_easy_read": "f1151eb8110381956016be0ef6c86338c32048dd8729b66ddf10bbffec48b311",
         "pg033_n0007_easy_read": "e47689550285990f4b0cf27f7e7f2c69f1ee3894909051922a1e4be71acb9c72",
         "pg033_n0010_easy_read": "445746725cf5219dd9c0ca26e01af8b6fe80a1c7c14d121160b86ba11592d426",
         "pg030_n0007_easy_read": "18bfbd9bb7244e4427f7f979c7f0cbdd0dd1fc1c463eab2dd5c5ffc5c5879a6c",
-        "pg033_n0013_easy_read": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg033_n0013_easy_read": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg033_n0014_easy_read": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg033_n0015_easy_read": "5870a6af7a8295361aa60b25cf62a20ad3a26782489f9cee5becb9342a947ca1",
-        "pg033_n0016_easy_read": "cbcbb494ef6e601cc09cd21b0f3e231778fe267661857a8468fb603fa5e46980",
+        "pg033_n0016_easy_read": "b7e57015ac5e93d5faeafb0f27612aced86dcfa8a2b5cb0271882dafa18d5d02",
         "pg033_n0017_easy_read": "81b3d151bcae0e5147b62a1857b815cc0f0efec115e2cf9bbe010091dec8a7f4",
         "pg033_n0018_easy_read": "96711b29c6471b2e6373c3c018b3c199ff841811055de78346f0fc42e1fbb1f5",
         "pg034_n0004_easy_read": "f0aaefb30c0cc53bcdb082151072b67f043661b7a36e70f908f75105bfc503fe",
         "pg034_n0006_easy_read": "1e67570a2d0069a014a84a23deac8e42462dbb0317581d3ca9c7343e9cc57a51",
-        "pg034_n0007_easy_read": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg034_n0007_easy_read": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg034_n0008_easy_read": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg034_n0010_easy_read": "e5a52e43f758ec3ce68323114a98a867fe49e07f205db08e91f8a9decbbee20f",
         "pg034_n0012_easy_read": "e24e207b3c76bafc35b2c3cfc5e12b2bc4d850de4c14082a8cc705d0aa3c282d",
-        "pg034_n0013_easy_read": "c6b48dd023b6d6850d916479d873f7fe9a5674f25562051c7f2d2b1f5046e1e6",
+        "pg034_n0013_easy_read": "e914fc9b94f335ae254ffbd01bcfabeddb02da68f9c59c411796482ab069214a",
         "pg034_n0014_easy_read": "770f3b84cb49eee079719b7ce2f04e8c03423de3fb4e6b6e7b9f8b7b6db23e80",
         "pg034_n0016_easy_read": "346f3f855281ebdfa32e88fec9533da37739ce4e0b3eae5c7579eb0f8865e15b",
         "pg034_n0019_easy_read": "3803dcd2299ce0f9c9640822240c274131be3495442d65d1421cba335008636a",
@@ -4772,7 +4772,7 @@
         "pg034_n0026_easy_read": "ee70249b5a108786ea6a6984d0c5dd55f7395c0d72074cb02eae2835388bc12d",
         "pg034_thus_easy_read": "c6e52389952fb98fdde1284ff5aff04812db18fa856e0a32f78c37424ead90b0",
         "pg034_n0027_easy_read": "375ea14f157957c37a06e160bceb032cd5c2638572ea513172bd5131259f49cf",
-        "pg034_n0028_easy_read": "d0afaa19d132b49d15d54b7ddc5c5d9bbc99870c5ed9b97def7272ca2b96db54",
+        "pg034_n0028_easy_read": "649c43ffc30851f8c7c60f9489550eb5f8eb50b0891eb7b71673a5ddabc349bc",
         "pg034_n0029_easy_read": "c7e6a655ffaf13e339a4ce7b3fa755dd4709211d1de740a542a60d2ce8734e21",
         "pg025_n0034_easy_read": "305cec15b83ca0d6086dfa7b4456039770a8e81ebe5c753c5602516bcf982053",
         "pg025_n0028_easy_read": "0451d13104f7e08a9e7b5ba91cae8085cca06027d188d991b840c76d67f1d92e",
@@ -4867,19 +4867,19 @@
         "pg038_n0020_easy_read": "df624ae9cc5f544ea621f99ba7e3bd533af6b94c40134765672adf58ef11de61",
         "pg038_n0026_easy_read": "39e61e3276eed8e6d1b79773e553ee80d9a98d25439ef17755d6dd40770ca899",
         "pg037_n0029_easy_read": "c9bee95d6229857735bcef84c5bc756be16bf7f39d2258755c1d072d385862a8",
-        "pg038_use_pi_easy_read": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg038_use_pi_easy_read": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg038_n0030_easy_read": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg038_n0031_easy_read": "98ed383a93d687db7a8254a9828ac91997b0c2990d94537a67892de70e3ea05e",
-        "pg038_n0032_easy_read": "fe3d0f94667381b53f1d5697038a647a8f8857839682de12c44c0dcfc9c61b5a",
+        "pg038_n0032_easy_read": "fbdd7e1482b6db31c314de28e6bb43a44c04ce1935f12fc64400a1fb15a496c2",
         "pg038_n0033_easy_read": "b7ade8435ef977178b5490c16e41d945a8f9629dc89e7bb966396553f507ff4b",
         "pg037_n0023_easy_read": "b3b3489778cf98800afd401618b0f029836c53b96f33ae045d6885fdae03443b",
         "pg039_n0002_easy_read": "445746725cf5219dd9c0ca26e01af8b6fe80a1c7c14d121160b86ba11592d426",
         "pg039_n0004_easy_read": "16c049b937caaf3547655910ee0e79624c5245bc41d02fd2cf826660903ba0c2",
         "pg039_n0006_easy_read": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
         "pg039_n0008_easy_read": "88f502cc7dc3ed668f6d80dddba60fc76568d1030bc461dd00bfca141caf14a7",
-        "pg039_n0009_easy_read": "8145b97c619f0b1ef6dd270c1617f76f5b116a651ee0b5856d7f8e82dd9f35c9",
+        "pg039_n0009_easy_read": "6e47f07ae5d291a69b6dcc7d1b2a38d47acfe2fbf9b6bfff46f30f81d30bf702",
         "pg039_n0010_easy_read": "b9cdaf7c3567d53c0d8897f0f87c2c7a5296cfcc258ffaa2083ba4d11b1dc85e",
-        "pg030_fraction_sentence_easy_read": "2dbd82c5536de942f99b223298235b2b05929fc176b47a6b115c73b93f9c99db",
+        "pg030_fraction_sentence_easy_read": "76ce600e0f5c45779781fb50c8f9c2fc7dcadb6f2ee7b0c21f42d1ca5d827870",
         "pg039_n0014_easy_read": "f0aaefb30c0cc53bcdb082151072b67f043661b7a36e70f908f75105bfc503fe",
         "pg036_n0031_easy_read": "51211787df6ba8f7747d93def512c0982ba54259086c477ac876a1dda3b4b966",
         "pg039_n0018_easy_read": "3535d49b26987384ec5614c0b027d91f4297f84ca2ca198c9709d24fe0c454da",
@@ -4887,13 +4887,13 @@
         "pg039_n0021_easy_read": "379c271d950b3bad7d30874a84c411d9298d61b5e2830373be4a0312306b351e",
         "pg039_n0022_easy_read": "6f124a243c64a4a85e567395383604af59f8c9140849f610932c7c01af33740d",
         "pg039_n0023_easy_read": "88f502cc7dc3ed668f6d80dddba60fc76568d1030bc461dd00bfca141caf14a7",
-        "pg039_n0024_easy_read": "e3b0efc0408eecc1735af2d48a107f136040e686395af6c53af68efa68582a2a",
+        "pg039_n0024_easy_read": "11f77f2d0fd6223d97570c1a350cc646511c46102a228cd75dd503f99d90e951",
         "pg039_n0025_easy_read": "c1723acc65680de23fd95135270a820e7d78466a69214629014eb82caee2123d",
         "pg039_n0027_easy_read": "1a6c8df33bb26780fbf34e2f7457fb60fbceea572e7d193fbf83bd44b72747b0",
         "pg037_n0016_easy_read": "a9383818b102c97a92a7acca3f54dbe62cf820755d0fd7881840b815dfa9937b",
         "pg039_n0031_easy_read": "cd69b54894c08c355942c06ed6c21ccd7b814220a9009e643bcd83ce66c7f218",
-        "pg039_n0032_easy_read": "3ce54ee40b31d3f08451c8875eeaba24aeee8f32a89bcd7b7977630f68679608",
-        "pg039_n0033_easy_read": "c3628eadca3004a8c7011c7d839ceac7dac9277c8e85c38ee7922e7398adb88c",
+        "pg039_n0032_easy_read": "2464e0a67f6e38dc1b593b27fa81da3f3413b7398f8bb8deca32b31c844108f5",
+        "pg039_n0033_easy_read": "490bdfd795739101ea23ab2c5a71e7e286bea606382a4489451905c4f8cb8d58",
         "pg039_n0034_easy_read": "c1723acc65680de23fd95135270a820e7d78466a69214629014eb82caee2123d",
         "pg039_n0036_easy_read": "1a6c8df33bb26780fbf34e2f7457fb60fbceea572e7d193fbf83bd44b72747b0",
         "pg040_n0003_easy_read": "3e160b4dee032560db9ec85ce5449db84129144a55ac59f10e51196ac9be339f",
@@ -4940,7 +4940,7 @@
         "pg041_n0004_easy_read": "b86f740411b52ad949643718985e3f5321bb4795d19ba954c5cffa50ccfc46e7",
         "pg038_n0035_easy_read": "1f98c35cadaa934287ab1c2fc71a7074510b4fa7385a395cd4d16f29c068a956",
         "pg041_n0006_easy_read": "f6ad998ae48835dc176ce704de1a6d4a3798ea59d45a0355c9b584b73749b571",
-        "pg041_n0007_easy_read": "0fc05e97b49701e0ccd0716c797d041161f9143ca3970df42c42cc13f3f318d7",
+        "pg041_n0007_easy_read": "50a8b933bb1d9c645c4e7520ac10455f8b664ccdc1753dfafa5bebce0ddbd1b0",
         "pg038_n0028_easy_read": "6345bc819487c55234484e2d430a8e7172eb1d67f8623ad1640258a435857795",
         "pg035_n0003_easy_read": "2e752dfabc1ba45bb5d5383970d53c06be8acb70f26b2030047d7f8b70c305ee",
         "pg041_n0013_easy_read": "c1abfe62b3cdf7938027f25a7e8b2c33974eb42ac19a78986b7d2c74d9b8d610",
@@ -4994,7 +4994,7 @@
         "pg042_n0034_easy_read": "0cd16e5c0aff84ef5aeee7fd23e554c4fbf8431e2d2c0c3d5d4c449e8cd7afad",
         "pg042_n0035_easy_read": "d25ac2c15b9fd065e734109c993c85d26f36b06c7b8f53d1745ff9236b46417f",
         "pg031_pi_ratio_easy_read": "f65c90cb8f3e3a53b7bc3b882e23c59c8dfa5573a5b984622976405aed76e4fe",
-        "pg035_n0006_easy_read": "ca6b120a2224e800ee8a98d18f1b4f3ad52b3ace81038547245835b888b496d2",
+        "pg035_n0006_easy_read": "57dae76c10425d7b2223bccb428a6bdc122d05137664098f5a0d3c46bab9d7ca",
         "pg040_n0036_easy_read": "24b689a190d8ba7e6cf24818d3a15449dac69ff2a50f4d306380cdad931c9696",
         "pg041_n0035_easy_read": "75731012ea412b53682a92fedb746f4fa647916c0384462e3b408dceeb423e06",
         "pg043_n0015_easy_read": "0caac1f36d770a21a3433327b881d808848d9094e677186bf4477c994bcc9ced",
@@ -5604,7 +5604,7 @@
         "pg060_n0035_easy_read": "572714a1497f0d92684dc55d13418a10252c7b0200fbed2a4aa8506b7727c46f",
         "pg066_n0005_easy_read": "15db7e6cf2cbce86f4999b5ac309dc4839142bf570676b233cef27874103b982",
         "pg059_n0024_easy_read": "d054f48e4846d0dcd0b989867317b9b60097b408652ddfa4a59b3c53430ecf83",
-        "pg066_n0009_easy_read": "a9b0076424e9afdb01bb6fd0469445045412a1342a4221b604aae26701e7597f",
+        "pg066_n0009_easy_read": "064b73351adc20e50ccde8349a426813d5d63683c9025a550e33d1dfdbf2bc3e",
         "pg066_n0012_easy_read": "9692783bf97e21f37d57043e561282730fb001f415dcd3fa3130e45aa34d57ee",
         "pg066_n0013_easy_read": "f92354a7455166c8d777d2068917dae55f843fa2466355d0f4b7728266e42198",
         "pg066_n0015_easy_read": "c07ea93411b91dbdbd37e569492c685da18e25d9861bbb2932f3be88552aba64",
@@ -6348,9 +6348,9 @@
         "pg101_n0008_easy_read": "7dd35479230a6cce31400d01b4419c7da7af9ef557dccb1b991518c868d37454",
         "pg098_n0023_easy_read": "6699b8f65bb7bb23276c69bcd9d300e1ae30c304de6292984dbe8c1e2903effd",
         "pg101_n0010_easy_read": "2346a173c24e7b1efa036005d9035225d28ced669c4d8b882a516513c113ae0f",
-        "pg101_n0011_easy_read": "7bdd0cc16a8a9e5bf1e9208c2ae80f6ac067161191fc6612872e3bc70e0e43e4",
+        "pg101_n0011_easy_read": "afebd3d4b2c78aaea13050ccb4fefd4f61cc385e45cb9aa63efd50d4056689c2",
         "pg096_n0039_easy_read": "129aefbcc1596e06cc43a8ba2d0b683ce8eb06dd2f5859bd83f4d62e275798b2",
-        "pg101_n0014_easy_read": "386bfd238423bf1b9d0aa6a94ff9656c3e073085dc2679a312dbb9b6aaf2c137",
+        "pg101_n0014_easy_read": "c53b594e2d6adb39dc9219ba9622c8cf3c800907f494ead73a9443013d2243a6",
         "pg100_n0026_easy_read": "aef90efd71a5db5c926c4628c8e36ad4f9eb4bdde77bb8ce246805e3c7bb45d4",
         "pg101_n0025_easy_read": "8b690c4248d22b6e12f4d9db6aecee62e4eea9a97ea95cd28ea4eb57db4c14c2",
         "pg101_n0027_easy_read": "f7244bf98856087d6e292301cccb5e1ba336115d2201e295d2b55e29ec9387aa",
@@ -6486,10 +6486,10 @@
         "pg107_n0018_easy_read": "858e9bbb1514f93647408d1eb446668bb8c5b26c43cd56cd5056eafeb123aa76",
         "pg105_n0009_easy_read": "865d5b245cbef9ba3953d915e405964327987a1b306bf9133f34c77ea695f50b",
         "pg109_n0083_easy_read": "683aade0a74b82b45af62270f1ccc754948384b916763a25bb17d960e86ef716",
-        "pg110_n0004_easy_read": "ec47d661f8f415c819e0f491f8e2f890df260f7d3639b778b2dda0de234eafef",
+        "pg110_n0004_easy_read": "4cfd9ffc33ea74c7b5bbc5d902c89d3e057160bff03643daabe6296f692d8752",
         "pg105_n0029_easy_read": "d83c23b4fb4f3d84033ab5d47d1c5a465a7baac4fa07638377176d1bc9bd2f8c",
         "pg110_n0009_easy_read": "11d89e00027412a1ab26610dfa5ce9ad8bc590f5635c96ed5543cfeee5141b5f",
-        "pg110_n0012_easy_read": "0d20125f9b701c7318ff410f7292a3c51e193fc04779f83c0ec43d7188eff7c1",
+        "pg110_n0012_easy_read": "cbbd22875caaa9068f264a44151469299d77c33e361b215a4c754672d5025989",
         "pg096_n0036_easy_read": "37e7220eb1b54c358ef7eb0847481f74b813c8e51f956035691a7487909a872e",
         "pg105_n0007_easy_read": "b90c79c215613a246090452671026bbb25a509b0a44dcfec67e1d133ccd6054a",
         "pg110_n0019_easy_read": "49627879740ca1dfd465ad04f9d350e4a4279201f325e62ad64b02a662db2e74",
@@ -6990,7 +6990,7 @@
         "pg134_n0015_easy_read": "41b0d781fb4f26b82194d6e952693af2bac4b11ae30aa31f8e87307b760c5395",
         "pg134_n0016_easy_read": "fc4fbab6e4defb88a8a293fca9281963645d9db8630035e4743f697a7b0ec4a4",
         "pg134_n0017_easy_read": "0ddbe5ec67d405889d6d24b1ad73f852bd28015b5818a96605aad89c6e0388c7",
-        "pg134_n0018_easy_read": "509f8867cd179f80ec5e81805ace07d84f762374a5cf2e78f6c2f77f0ccf9f0e",
+        "pg134_n0018_easy_read": "1ff284b000497f5bbff61c9a8fb5a6a5aee42a37c562057b28db0f076d4a9a06",
         "pg128_n0020_easy_read": "a9dd542c4948400b32bcabd46805a400b255980f2ee718f976e5bf57419daa7d",
         "pg135_n0008_easy_read": "ab95a856d1540a1c60108f62c5b16b75059feb11a562fe5e53b8ae9e068eb3ac",
         "pg132_n0035_easy_read": "6f8b7bac8fa3d7e95d388f44f5a666653dea1c812a9084a7d00aa68f7962df54",
@@ -7061,7 +7061,7 @@
         "pg136_n0027_easy_read": "ee7199c03d5869143e5ffd53cea40923e02141df839c84e5710c591a8f0b2663",
         "pg137_n0013_easy_read": "516f9b7907db597827ac9a402da970f145b685249fe49f321f1f6ebad7647eca",
         "pg135_n0017_easy_read": "2e7558440a69074237422518106932e06a5df748f474299e63d96c6ad874a2ce",
-        "pg134_n0012_easy_read": "776bcee159bddf6defbc7daf01a854765ab8312d18a64b19bb11f4782037d56c",
+        "pg134_n0012_easy_read": "1a104fd08c93b594be61ef47bc5117f7d350079d58c44e00a61d1ed8e1beeea8",
         "pg137_n0033_easy_read": "80e12c8e8649749bf2844ff521e429040d983c8c05c45ab1721148a58708fe78",
         "pg137_n0043_easy_read": "516f9b7907db597827ac9a402da970f145b685249fe49f321f1f6ebad7647eca",
         "pg138_n0021_easy_read": "8129e43f9317b08008a62859f30eb3e15db119930d1c20366a4dc822e752617b",
@@ -7275,7 +7275,13 @@
         "pg014_n0094": "72e8961e464c1911ebc660bb09e498a1b77c06bf4b2966d55a042d66ceee3b40",
         "pg014_n0094_easy_read": "a1891a31a5091b26d2c0ed9bea962db2f4dfb137fa6bce205b25c75746bcd69d",
         "pg129_n0009": "3737e8fa513c12d03694f89c1f8dfddc0b748ea9e8d6b1305900d42b55e75eca",
-        "pg129_n0018": "82c219ad632d34499ba1ae1b9a67f9afdac5471551e54b6426a820889af60977"
+        "pg129_n0018": "82c219ad632d34499ba1ae1b9a67f9afdac5471551e54b6426a820889af60977",
+        "pg026_n8999": "df98232dc3e50d8ea1517d6dec73726e3125ee791f74bdd8f41717e15fcd9abd",
+        "pg098_fix_example4_division": "e4301e21f6f13dd660230032fe2a776d04a9595f49e08d461ef3059ca54c725f",
+        "pg106_n8998": "69f0dfa5c3a01761aca48356a6e5907b1f9b711428757de0262c0ffa96a12aed",
+        "pg106_n8998_easy_read": "69f0dfa5c3a01761aca48356a6e5907b1f9b711428757de0262c0ffa96a12aed",
+        "pg106_n8999": "237af60405b22b86037927fbbe74e65ec1bfc6f77c1a7efe7223a730458e2800",
+        "pg106_n8999_easy_read": "237af60405b22b86037927fbbe74e65ec1bfc6f77c1a7efe7223a730458e2800"
       },
       "entrySettings": {
         "pg003_n0006": {
@@ -9393,6 +9399,370 @@
           "format": "wav"
         },
         "pg066_n0019_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg026_n8999": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg030_fraction_sentence": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg032_n0040": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0005": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0007": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0028": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg035_n0006": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg038_use_pi": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg038_n0032": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0033": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg041_n0007": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg032_n0040_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0005_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0013_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0007_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0013_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0028_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg035_n0006_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg038_use_pi_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg038_n0032_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0024_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0032_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg041_n0007_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg030_fraction_sentence_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0033_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0016_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0009_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg098_fix_example4_division": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg098_fix_alternative_division": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg101_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg101_n0011_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0012_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg134_n0012_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg101_n0014_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0004_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg101_n0014": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg066_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg106_n8998": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg106_n8998_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg106_n8999": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg106_n8999_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg134_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg134_n0018_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0032": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg066_n0009_easy_read": {
           "provider": "gemini",
           "model": "gemini-2.5-flash-preview-tts",
           "voice": "Kore",
@@ -11540,6 +11910,370 @@
           "format": "wav"
         },
         "pg066_n0019_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg026_n8999": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg030_fraction_sentence": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg032_n0040": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0005": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0016": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0007": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0013": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0028": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg035_n0006": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg038_use_pi": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg038_n0032": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0033": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg041_n0007": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0024": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg032_n0040_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0005_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0013_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0007_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0013_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg034_n0028_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg035_n0006_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg038_use_pi_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg038_n0032_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0024_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0032_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg041_n0007_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg030_fraction_sentence_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0033_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg033_n0016_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0009_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg098_fix_example4_division": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg098_fix_alternative_division": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg101_n0011": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg101_n0011_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0004": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0012_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg134_n0012_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg101_n0014_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0004_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg110_n0012": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg101_n0014": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg066_n0009": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg106_n8998": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg106_n8998_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg106_n8999": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg106_n8999_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg134_n0018": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg134_n0018_easy_read": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg039_n0032": {
+          "provider": "gemini",
+          "model": "gemini-2.5-flash-preview-tts",
+          "voice": "Kore",
+          "instructions": "Speak it in Tanzanian Swahili (Kiswahili cha Tanzania). Use the\npronunciation and intonation typical of mainland Tanzania, not Kenyan Swahili.\nSpeak in a cheerful and positive tone.\n",
+          "format": "wav"
+        },
+        "pg066_n0009_easy_read": {
           "provider": "gemini",
           "model": "gemini-2.5-flash-preview-tts",
           "voice": "Kore",
